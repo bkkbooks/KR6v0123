@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0123/v1
 canonical_location: https://kanripo.org/bkk/KR6v0123/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 論《高麗再雕藏》中所見的《契丹藏》
   source:
@@ -18,9 +18,9 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 1, filename: KR6v0123_001.yaml, hash: 'sha256:e55632b3a458ca2ff2225df2a41f416164a911acd96490d6645be2d2e2450f0d'}
+  - {seq: 1, filename: KR6v0123_001.yaml, hash: 'sha256:04067f33ef06179ba5ddc23ad852cef985365dd696d4f8abe79e4d40c5c8b05c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0123_001.markers.yaml, hash: 'sha256:c2ca78b924819a5d7a2dd3e96172a3290d68fe8fbea4ec955198de24dab45d19'}
+  - {seq: 1, role: markers, filename: assets/KR6v0123_001.markers.yaml, hash: 'sha256:75fbac31ca8cd689ef19b58984fb0d687e3c4e78efbaea8274a80643d6d06588'}
 table_of_contents:
 - ref:
     seq: 1
@@ -272,4 +272,7 @@ table_of_contents:
   label: 四、結論
   type: mulu
   level: 1
-hash: sha256:820f6987d8fb184da6be09bb8a57a583940a64c3d45187b11f9ea262bb05334c
+hash: sha256:e34b0e52dc54ff5885746379aa9a64e11a3343997e85564e635af444d2dfc25e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
